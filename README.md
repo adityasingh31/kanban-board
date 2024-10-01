@@ -1,6 +1,6 @@
 # [Kanban Board Application]([https://main.d2nq9mz8ggbsl4.amplifyapp.com](https://kanban-board-adityasingh.netlify.app/))
 
-Welcome to the Kanban Board Application! This project, built with React JS, provides an interactive and user-friendly interface for managing tasks effectively. It connects seamlessly with the API at Quicksell API [https://api.quicksell.co/v1/internal/frontend-assignment], allowing users to customize their workflow by grouping and sorting tasks according to their preferences.
+Welcome to the Kanban Board Application! This project, built with React JS, provides an interactive and user-friendly interface for managing tasks effectively. It connects seamlessly with the API at Quicksell API https://api.quicksell.co/v1/internal/frontend-assignment, allowing users to customize their workflow by grouping and sorting tasks according to their preferences.
 
 ## Features
 
