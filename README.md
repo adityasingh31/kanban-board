@@ -74,8 +74,10 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
 
-- **Name:** Sagar Chauhan
-- **Email:** [sagarchauhan015@gmail.com](mailto:sagarchauhan015@gmail.com)
+- **Name:** Aditya Singh
+- **Email:** [adiwork01.singh@gmail.com
+](mailto:adiwork01.singh@gmail.com
+)
 
 
 Enjoy using the Kanban board application to manage your tasks efficiently!
