@@ -1,18 +1,18 @@
-# [Kanban Board Application](https://main.d2nq9mz8ggbsl4.amplifyapp.com)
+# [Kanban Board Application]([https://main.d2nq9mz8ggbsl4.amplifyapp.com](https://kanban-board-adityasingh.netlify.app/))
 
-This is a Kanban board application built using React JS that interacts with the provided API from [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment). The application allows users to dynamically adjust the Kanban board based on their grouping and sorting preferences. Users can group tickets by status, user, or priority, and sort the displayed tickets by priority or title. The application also retains the user's view state even after page reload.
+Welcome to the Kanban Board Application! This project, built with React JS, provides an interactive and user-friendly interface for managing tasks effectively. It connects seamlessly with the API at Quicksell API [https://api.quicksell.co/v1/internal/frontend-assignment], allowing users to customize their workflow by grouping and sorting tasks according to their preferences.
 
 ## Features
 
-- Group tickets by status, user, or priority.
-- Sort tickets by priority or title.
-- Visually appealing and responsive design.
-- Ability to save the user's view state in local storage.
+- Organize tickets by Status, User, or Priority.
+- Arrange tasks in descending order of Priority or alphabetically by Title.
+- User preferences are saved in local storage, ensuring that your settings are retained even after refreshing the page.
+- A visually appealing layout that adjusts to different screen sizes.
 - Priority levels are defined as Urgent (4), High (3), Medium (2), Low (1), and No priority (0).
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+You can see a live demo of the Kanban board application [here]([https://main.d2nq9mz8ggbsl4.amplifyapp.com](https://kanban-board-adityasingh.netlify.app/)).
 
 ## Installation
 
@@ -20,7 +20,7 @@ To run the Kanban board application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sagarchauhan015/kanban-board.git
+   git clone https://github.com/adityasingh31/kanban-board.git
    ```
 
 2. Navigate to the project directory:
@@ -41,15 +41,15 @@ To run the Kanban board application locally, follow these steps:
 
 ## Usage
 
-1. Click the "display" button to fetch and display the tickets from the provided API.
+1. Click the "Display" button to fetch tickets from the API.
 
-2. Select one of the three grouping options: "By Status," "By User," or "By Priority."
+2. Choose a grouping option from the available selections: "By Status," "By User," or "By Priority."
 
-3. Choose the sorting option: "Priority" or "Title."
+3. Select how you want to sort the displayed tickets: either by "Priority" or "Title."
 
-4. The Kanban board will dynamically adjust to reflect your choices.
+4. Watch as the Kanban board updates dynamically to reflect your choices.
 
-5. The application will save your view state, so you can return to your preferred settings even after a page reload.
+5. Enjoy the convenience of having your view state saved for future visits!
 
 
 ## Contributing
@@ -79,5 +79,4 @@ If you have any questions, suggestions, or feedback, feel free to contact the pr
 ](mailto:adiwork01.singh@gmail.com
 )
 
-
-Enjoy using the Kanban board application to manage your tasks efficiently!
+Happy task management with the Kanban Board Application! Enjoy enhancing your productivity!
